@@ -1,4 +1,4 @@
-# Malispring
+# Mailspring
 
 ## Table of contents
 
